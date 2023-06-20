@@ -8,10 +8,8 @@
 - 💬 I’m reading the B.Sc. (Hons) in Information Technology degree program.
 - ⚡ I’m currently open to software engineering internships. 
 
-Skills: HTML / CSS / JS / Angular / Java l 
+Skills: HTML / CSS / JS / Angular / Java / Spring Boot
 
-- 🔭 I’m currently working on this page. 
-
-  
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShanilkaSenadheera)](https://github.com/anuraghazra/github-readme-stats)
 ass
