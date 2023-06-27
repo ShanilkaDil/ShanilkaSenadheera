@@ -24,3 +24,27 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanilkaSenadheera&repo=Weather-Application&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanilkaSenadheera&repo=To-Do-List&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+const renderRepoCard = (repo, options = {}) => {
+  const {
+    name,
+    nameWithOwner,
+    description,
+    primaryLanguage,
+    isArchived,
+    isTemplate,
+    starCount,
+    forkCount,
+  } = repo;
+  const {
+    hide_border = false,
+    title_color,
+    icon_color,
+    text_color,
+    bg_color,
+    show_owner = false,
+    theme = "default_repocard",
+    border_radius,
+    border_color,
+    locale,
+  } = options;
