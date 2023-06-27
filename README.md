@@ -17,6 +17,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanilkaSenadheera&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanilkaSenadheera&repo=projectFrontend)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanilkaSenadheera&repo=projectFrontend&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanilkaSenadheera&repo=projectBackend)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanilkaSenadheera&repo=projectBackend&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
